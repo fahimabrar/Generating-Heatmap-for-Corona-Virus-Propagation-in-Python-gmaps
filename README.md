@@ -11,4 +11,4 @@ The heatmap looks like
 
 ![alt text](https://miro.medium.com/max/1250/1*NSBBeF2avSDXkhi-lZbmwg.png)
 
-The full article on medium is [here](https://medium.com/codephilics/generating-heatmap-for-corona-virus-propagation-in-python-e94ce16f5399
+The full article on medium is [here](https://medium.com/codephilics/generating-heatmap-for-corona-virus-propagation-in-python-e94ce16f5399)
